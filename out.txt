@@ -1,0 +1,19 @@
+25MCMI01 Amr 25 40 30 40 32 40 28 40 35 40	65	B+	70	B+	72	B+	68	B+	75	A	7.200000
+25MCMI02 Afra 20 35 25 35 23 35 27 35 29 35	55	C	60	B	58	C	62	B	64	B	5.600000
+Rejected ID due to duplication : 25MCMI02
+25MCMI03 Nabhan 18 30 22 30 20 30 25 30 30 30	48	F	52	D	50	D	55	C	60	B	3.800000
+25MCMI04 Rajina 32 40 35 40 38 40 30 40 40 40	72	B+	75	A	78	A	70	B+	80	A	7.600000
+Rejected ID due to invalid format: 25MCMI#4
+Rejected  due to invalid minor marks: 25MCMI06
+Rejected name due to invalid format : Ayaan3
+Class Average Percentage: 60.500000
+Highest percentage = 76.000000
+Lowest percentage=38.000000
+No. of student in O grade: 0
+No. of student in A+ grade: 0
+No. of student in A grade: 4
+No. of student in B+ grade: 6
+No. of student in B grade: 4
+No. of student in C grade: 3
+No. of student in D grade: 2
+No. of student in F grade: 1
