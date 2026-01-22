@@ -1,0 +1,16 @@
+25MCMI01      Amr  25  40  65	B+  30  40  70	B+  32  40  72	B+  28  40  68	B+  35  40  75	A	7.200000
+25MCMI02     Afra  20  35  55	C  25  35  60	B  23  35  58	C  27  35  62	B  29  35  64	B	5.600000
+25MCMI03   Nabhan  18  30  48	F  22  30  52	D  20  30  50	D  25  30  55	C  30  30  60	B	3.800000
+25MCMI04   Rajina  32  40  72	B+  35  40  75	A  38  40  78	A  30  40  70	B+  40  40  80	A	7.600000
+______________________________________________________________________________________________________
+Class Average Percentage: 60.500000
+Highest percentage = 76.000000
+Lowest percentage=38.000000
+No. of student in O grade: 0
+No. of student in A+ grade: 0
+No. of student in A grade: 4
+No. of student in B+ grade: 6
+No. of student in B grade: 4
+No. of student in C grade: 3
+No. of student in D grade: 2
+No. of student in F grade: 1
